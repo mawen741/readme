@@ -39,6 +39,7 @@
     }  
 ### 链接  
 1.[点击这里你可以链接到www.google.com](http://www.google.com)<br />  
+3.[我是一个中文](https://www.baidu.com)<br />
 2.[点击这里我你可以链接到我的博客](http://guoyunsky.iteye.com)<br />  
    
 ###只是显示图片  
