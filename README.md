@@ -18,7 +18,6 @@
    
 ### 单行文本框  
     这是一个单行的文本框,只要两个Tab再输入文字即可  
-    试试
            
 ### 多行文本框    
     这是一个有多行的文本框  
@@ -39,7 +38,6 @@
     }  
 ### 链接  
 1.[点击这里你可以链接到www.google.com](http://www.google.com)<br />  
-3.[我是一个中文](https://www.baidu.com)<br />
 2.[点击这里我你可以链接到我的博客](http://guoyunsky.iteye.com)<br />  
    
 ###只是显示图片  
